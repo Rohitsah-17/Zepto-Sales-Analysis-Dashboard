@@ -66,4 +66,4 @@ Establishment Year
 ## 🖼️ Dashboard Preview
 
 
-![Zepto Power BI Dashboard](./https://github.com/Rohitsah-17/Zepto-Sales-Analysis-Dashboard/blob/main/SS_Zepto_Sales_Analysis.png)
+![Zepto Power BI Dashboard](./SS_Zepto_Sales_Analysis.png)
